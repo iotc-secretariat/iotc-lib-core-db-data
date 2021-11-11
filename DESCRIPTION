@@ -10,5 +10,5 @@ Encoding: UTF-8
 LazyData: true
 Depends: 
   data.table,
-  iotc.core.db.connections
+  iotc.core.db.connections (>= 0.2.0)
 RoxygenNote: 7.1.1
