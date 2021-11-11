@@ -1,7 +1,7 @@
 Package: iotc.core.db.data
 Type: Package
 Title: IOTC core RDBS data retrieval utilities
-Version: 0.2.0
+Version: 0.2.1
 Author: Fabio Fiorellato <fabio.fiorellato@fao.org>
 Maintainer: Fabio Fiorellato <fabio.fiorellato@fao.org>
 Description: Provides convenience methods to retrieve data from the IOTC databases
